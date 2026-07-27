@@ -1,26 +1,47 @@
-<!-- Top Animated Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:1F6FEB,70:8957E5,100:238636&height=220&section=header&text=✦%20RAVEN'S%20DEVELOPER%20REALM%20✦&fontSize=32&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Architect%20%7C%20Open%20Source%20Enthusiast&descSize=16&descAlignY=62" width="100%" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=hey+there!+%F0%9F%90%A7+i'm+raven;full-stack+builder+%26+creator;turning+coffee+into+code+%E2%98%95;building+cool+stuff+%E2%9A%A1" alt="Typing SVG" />
+</h1>
 
-<!-- Animated Typing Subtitle -->
 <p align="center">
-  <a href="https://github.com/ravendevhub">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=console.log(%22Building+the+Future+with+Code%E2%9A%A1%22);%F0%9F%9A%80+Laravel+%E2%80%A2+Flutter+%E2%80%A2+React+%E2%80%A2+Python;%F0%9F%92%A1+Architecting+Scalable+%26+Secure+Systems" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- Animated Counter & Profile Visitor Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ravendevhub&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/ravendevhub?label=FOLLOWERS&style=for-the-badge&color=8957e5&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/ravendevhub?label=STARS&style=for-the-badge&color=238636&logo=github" alt="Stars"/>
+  <img src="https://img.shields.io/badge/GenZ_Developer-%E2%9C%A8-FF007F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_Source-%E2%9A%A1-00F2FE?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Building_Cool_Stuff-%F0%9F%9A%80-7F00FF?style=for-the-badge&logoColor=white" />
 </p>
 
 <br/>
 
-<!-- Modern Tech Stack Grid using skillicons.dev -->
-<h3 align="center">⚡ Tech Stack & Ecosystem</h3>
+<!-- Side-by-side 2-Column Layout -->
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h3>✨ About Me</h3>
+      <p>Hey! I'm <b>Raven</b>, a passionate Full-Stack Engineer crafting modern web & mobile experiences with a clean aesthetic touch. 🚀</p>
+      
+      <ul>
+        <li>💻 <b>Building:</b> ERP & POS Systems, Web Apps, Security Toolkits</li>
+        <li>🛠️ <b>Core Stack:</b> Laravel, Flutter, React, Next.js, Python</li>
+        <li>🎧 <b>Vibe:</b> Lofi beats, clean code & minimal design</li>
+        <li>⚡ <b>Motto:</b> <i>"Move fast, build cool things."</i></li>
+      </ul>
+      
+      <br/>
+      
+      <h3>🌐 Connect With Me</h3>
+      <p>
+        <a href="https://github.com/ravendevhub"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="mailto:ravendevhub@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="45%" align="center" valign="top">
+      <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmNT2B/giphy.gif" width="100%" style="border-radius:12px;" alt="Lofi Dev Coding" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Aesthetic Tech Stack -->
+<h3 align="center">⚡ My Tech Arsenal</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=laravel,flutter,react,nextjs,python,php,ts,js,html,css,tailwind,mysql,postgres,sqlite,docker,linux,git,nginx,vscode,bash&perline=10" />
@@ -29,35 +50,27 @@
 
 <br/>
 
-<!-- GitHub Snake Contribution Animation -->
-<h3 align="center">🐍 Contribution Snake Game</h3>
+<!-- GitHub Stats Side-by-Side -->
+<h3 align="center">📊 GitHub Stats & Metrics</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravendevhub&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravendevhub&layout=compact&theme=cyberpunk&hide_border=true" width="49%" />
+</p>
+
+<br/>
+
+<!-- Contribution Snake -->
+<h3 align="center">🐍 Contribution Snake</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/ravendevhub/ravendevhub/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
 </p>
 
 <br/>
 
-<!-- Activity Graph -->
-<h3 align="center">📈 Contribution Activity</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravendevhub&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
-
-<br/>
-
-<!-- Daily Quote Card -->
-<h3 align="center">💬 Daily Developer Quote</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Developer Quote" />
-</p>
-
-<br/>
-
-<!-- Footer Animated Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:1F6FEB,70:8957E5,100:238636&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f2fe,100:7f00ff&height=4&section=footer" width="100%" />
 </p>
 
 <p align="center">
-  <i>✨ Designed with passion & precision by <b>@ravendevhub</b></i>
+  <sub>✨ <i>Crafted with ❤️ by @ravendevhub</i></sub>
 </p>
