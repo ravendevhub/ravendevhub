@@ -1,7 +1,17 @@
 # 👋 Hi, I'm Hein Min Htet (RAVEN)
-### Hybrid Network Systems Engineer & Full-Stack Web Developer 🚀
 
-[![Available for Freelance](https://img.shields.io/badge/Status-Available_for_Freelance-success?style=for-the-badge&logo=statuspage)](mailto:ravendevhub@gmail.com)
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Network+Systems+Engineer+(CCNA%2C+MTCNA);AWS+%26+Cloudflare+Cloud+Architect;Building+High-Performance+POS+%26+SaaS">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Network+Systems+Engineer+(CCNA%2C+MTCNA);AWS+%26+Cloudflare+Cloud+Architect;Building+High-Performance+POS+%26+SaaS" alt="Typing SVG Animation" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:ravendevhub@gmail.com">
+    <img src="https://img.shields.io/badge/Status-Available_for_Freelance-success?style=for-the-badge&logo=statuspage" alt="Status" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Enterprise_Apps_%26_Infrastructure-blue?style=for-the-badge&logo=react" alt="Focus" />
+</p>
 
 ```typescript
 const raven = {
