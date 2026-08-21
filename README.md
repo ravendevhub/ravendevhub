@@ -100,11 +100,11 @@ I am a **Hybrid Infrastructure & Web Developer** with a solid foundation in Ente
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravendevhub&show_icons=true&theme=dark" alt="Raven GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravendevhub&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravendevhub&theme=dark&hide_border=true" alt="Raven GitHub Streak" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ravendevhub&theme=onedark&column=3&margin-w=15" alt="Raven GitHub Trophies" width="48%" />
 </p>
 
 ---
