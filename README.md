@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Hein Min Htet (RAVEN)
 ### Hybrid Network Systems Engineer & Full-Stack Web Developer 🚀
 
-[![Available for Freelance](https://img.shields.io/badge/Status-Available_for_Freelance-success?style=for-the-badge&logo=statuspage)](mailto:chitthaekhaing1997kk@gmail.com)
+[![Available for Freelance](https://img.shields.io/badge/Status-Available_for_Freelance-success?style=for-the-badge&logo=statuspage)](mailto:ravendevhub@gmail.com)
 
 ```typescript
 const raven = {
@@ -14,7 +14,7 @@ const raven = {
         webDevelopment: "Since 2025 (Freelance POS, CRM, & Cloud Web Applications)"
     },
     certificationsAndSkills: ["MTCNA (MikroTik)", "CCNA (Cisco)", "Ruijie Certified", "VoIP Telephony"],
-    contact: "chitthaekhaing1997kk@gmail.com"
+    contact: "ravendevhub@gmail.com"
 };
 ```
 
@@ -66,6 +66,6 @@ I am a **Hybrid Infrastructure & Web Developer** with a solid foundation in Ente
 
 📫 **Let's Connect & Build Together:**
 - 💼 **Available for Freelance Projects, Remote Roles & IT Contracting**
-- 📧 **Email:** [chitthaekhaing1997kk@gmail.com](mailto:chitthaekhaing1997kk@gmail.com)
+- 📧 **Email:** [ravendevhub@gmail.com](mailto:ravendevhub@gmail.com)
 - 🌐 **GitHub Profile:** [github.com/ravendevhub](https://github.com/ravendevhub)
 
