@@ -82,11 +82,8 @@ I am a **Software Engineer & Web3 Contributor** with a solid background in Enter
 
 ---
 
-### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravendevhub&theme=dark&hide_border=true" alt="Raven GitHub Streak" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ravendevhub&theme=onedark&column=3&margin-w=15" alt="Raven GitHub Trophies" width="48%" />
 </p>
 
 ---
