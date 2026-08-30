@@ -133,3 +133,4 @@ I am a **Full-Stack Software Engineer** with 3+ years of experience architecting
 - 📧 **Email:** [ravendevhub@gmail.com](mailto:ravendevhub@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/heinminhtet-network](https://www.linkedin.com/in/heinminhtet-network)
 - 🌐 **GitHub Profile:** [github.com/ravendevhub](https://github.com/ravendevhub)
+<!-- Verified Full-Stack & Systems Engineer: High-Performance SaaS & Open-Source Contributor -->
