@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Hein Min Htet (RAVEN)
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Systems+Engineer;Next.js+15+%7C+React+19+%7C+TypeScript;Tailwind+CSS+v4+%7C+GSAP+%7C+Lenis;Prisma+ORM+%7C+Neon+PostgreSQL+%7C+MySQL;TanStack+Start+%7C+Express+%7C+Zustand">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Systems+Engineer;Next.js+15+%7C+React+19+%7C+TypeScript;Tailwind+CSS+v4+%7C+GSAP+%7C+Lenis;Prisma+ORM+%7C+Neon+PostgreSQL+%7C+MySQL;TanStack+Start+%7C+Express+%7C+Zustand" alt="Typing SVG Animation" />
+  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Systems+Engineer;Next.js+15+%7C+React+19+%7C+TypeScript;Laravel+(PHP)+%7C+Multi-Tenant+SaaS;Tailwind+CSS+v4+%7C+GSAP+%7C+Lenis;MySQL+%7C+Neon+PostgreSQL+%7C+AWS+%7C+Docker">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Systems+Engineer;Next.js+15+%7C+React+19+%7C+TypeScript;Laravel+(PHP)+%7C+Multi-Tenant+SaaS;Tailwind+CSS+v4+%7C+GSAP+%7C+Lenis;MySQL+%7C+Neon+PostgreSQL+%7C+AWS+%7C+Docker" alt="Typing SVG Animation" />
   </a>
 </p>
 
@@ -21,10 +21,10 @@ const raven = {
     location: "Southeast Asia (Remote Worldwide)",
     specializations: [
         "Next.js 15 / React 19 / TypeScript",
+        "Laravel / Blade / Livewire / Multi-Tenant Cloud SaaS",
         "Tailwind CSS v4 / GSAP / Lenis / Framer Motion",
-        "POS & Offline Sync (Prisma / SQLite / Dexie / Zustand)",
-        "Neon Serverless PostgreSQL / MySQL2",
-        "TanStack Start / TanStack Router / TanStack Query",
+        "MySQL (Docker) / Neon Serverless PostgreSQL",
+        "AWS EC2 / SSH Deployment / GitHub Actions CI/CD",
         "Linux Server Administration & Enterprise Networks"
     ],
     contact: "ravendevhub@gmail.com"
@@ -35,9 +35,9 @@ const raven = {
 
 ### 📖 About Me
 
-I am a **Full-Stack & Systems Engineer** with extensive experience building, shipping, and maintaining commercial web applications, POS systems, and enterprise network infrastructure.
+I am a **Full-Stack & Systems Engineer** with extensive experience building, shipping, and maintaining commercial web applications, multi-tenant POS SaaS platforms, and enterprise network infrastructure.
 
-- 💻 **Full-Stack Software Development (2022 - Present):** Architecting production platforms, POS software, and high-conversion e-commerce storefronts with Next.js 15, React 19, TypeScript, Prisma ORM, Neon PostgreSQL, and Express.js.
+- 💻 **Full-Stack Software Development (2022 - Present):** Architecting production platforms, enterprise POS software, and high-conversion e-commerce storefronts with Next.js 15, React 19, TypeScript, Laravel, MySQL, and PostgreSQL.
 - ⚡ **Web3 & Open-Source Contributions:** Actively contributing to core issue resolution, smart contract safety, and distributed system backends across open-source ecosystems.
 - 🔌 **Enterprise Networking & Infrastructure (2021 - 2023):** Hands-on physical & virtual network architectures, routing/switching, and security deployments for **FDB Bank** and **Wall Street English** (CCNA & MTCNA Certified).
 
@@ -45,7 +45,7 @@ I am a **Full-Stack & Systems Engineer** with extensive experience building, shi
 
 ### 🌐 Verified Live Commercial Deliverables
 
-- 💳 **[WeSmartPOS](https://wesmartpos.com):** Point of Sale (POS) & Retail Management System *(Next.js 14 App Router, TypeScript, Prisma, SQLite/Dexie Offline Sync, Zustand, Tailwind + shadcn/ui, Recharts)*.
+- 💳 **[WeSmartPOS](https://wesmartpos.com):** Enterprise Multi-Tenant POS & Cloud ERP SaaS *(Laravel, PHP, Blade, Livewire, Alpine.js, Tailwind CSS, MySQL Docker, AWS EC2, GitHub Actions CI/CD)*.
 - 🎬 **[DD Production](https://github.com/ravendevhub/DD-Production):** Premium Creative Video Production House Web Platform *(Next.js 15, React 19, Tailwind CSS v4, GSAP ScrollTrigger, Lenis Smooth Scroll, Motion)*.
 - 🤝 **[Meet2Connect](https://meet2connect.net):** B2B Networking & Matchmaking Platform *(TanStack Start, TanStack Router, React, TypeScript, Express, MySQL2, TanStack Query, Radix UI, Framer Motion)*.
 - 👗 **[Cover Up Myanmar](https://www.coverupmyanmar.com):** High-Traffic Lifestyle E-Commerce Storefront *(Next.js App Router, TypeScript, Neon Serverless PostgreSQL, Prisma, NextAuth, Cloudinary)*.
@@ -65,29 +65,29 @@ I am a **Full-Stack & Systems Engineer** with extensive experience building, shi
   <img src="https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS v4" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
-  <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix UI" />
+  <img src="https://img.shields.io/badge/Laravel_Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Blade" />
 </p>
 
-#### ⚙️ Backend, State & APIs
+#### ⚙️ Backend, Frameworks & APIs
 <p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="TanStack Query" />
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=redux&logoColor=white" alt="Zustand" />
-  <img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextAuth" />
   <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
 </p>
 
 #### 🗄️ Databases & Cloud Infrastructure
 <p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Neon_PostgreSQL-00E599?style=for-the-badge&logo=postgresql&logoColor=black" alt="Neon Postgres" />
   <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS_EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS EC2" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 #### 🔌 Enterprise Networking & Systems (Certified)
@@ -104,7 +104,7 @@ I am a **Full-Stack & Systems Engineer** with extensive experience building, shi
 
 | Domain | Core Technologies | Focus Area |
 | :--- | :--- | :--- |
-| **Point of Sale & Retail Management** | Next.js 14, TypeScript, Prisma, Dexie, SQLite, Zustand | Barcode POS, offline/online sync, cart state, receipt billing |
+| **Enterprise Cloud POS & ERP SaaS** | Laravel, PHP, Livewire, Alpine.js, MySQL (Docker), AWS | Multi-tenant tenant isolation, billing, inventory, CI/CD |
 | **Cinematic Creative & Media Platforms** | Next.js 15, React 19, Tailwind CSS v4, GSAP, Lenis | Inertia smooth scrolling, scroll-triggered motion, agency showcase |
 | **B2B Matchmaking & Community Platforms** | TanStack Start, React, TypeScript, Express, MySQL2, TanStack Query | Networking matchmaking, custom auth, reactive UI |
 | **High-Conversion E-Commerce** | Next.js, Neon PostgreSQL, Prisma, NextAuth, Cloudinary | High-speed storefronts, checkout workflows, CDN asset pipes |
