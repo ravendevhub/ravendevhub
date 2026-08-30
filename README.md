@@ -1,19 +1,27 @@
 # 👋 Hi, I'm Hein Min Htet (RAVEN)
 
-<p align=center>
+<p align="center">
   <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Engineer;Web3+%26+Distributed+Systems+Developer;Rust+%7C+TypeScript+%7C+Go+%7C+Python;Stellar+%26+Soroban+Ecosystem+Contributor">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Engineer;Web3+%26+Distributed+Systems+Developer;Rust+%7C+TypeScript+%7C+Go+%7C+Python;Stellar+%26+Soroban+Ecosystem+Contributor" alt="Typing SVG Animation" />
   </a>
 </p>
 
-<p align=center>
+<p align="center">
   <a href="mailto:ravendevhub@gmail.com">
     <img src="https://img.shields.io/badge/Status-Available_for_Bounties_%26_Contracts-success?style=for-the-badge&logo=statuspage" alt="Status" />
   </a>
   <img src="https://img.shields.io/badge/Focus-Web3_Distributed_Systems-blue?style=for-the-badge&logo=rust" alt="Focus" />
 </p>
 
-
+```typescript
+const raven = {
+    name: "Hein Min Htet (RAVEN)",
+    role: "Software Engineer | Web3 & Distributed Systems Developer",
+    location: "Southeast Asia (Remote Worldwide)",
+    specializations: ["Smart Contracts (Soroban/Rust)", "Distributed Systems", "Full-Stack Web (TS/Next.js)", "Linux & Network Systems"],
+    contact: "ravendevhub@gmail.com"
+};
+```
 
 ---
 
