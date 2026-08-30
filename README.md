@@ -41,6 +41,7 @@ I am a **Software Engineer & Web3 Contributor** with a solid background in Enter
 - 🤝 **[Meet2Connect](https://meet2connect.net):** B2B Networking, Community & Matchmaking Platform (Next.js, Node.js, Database Architecture).
 - 💳 **[WeSmartPOS](https://wesmartpos.com):** Cloud-Based Point of Sale (POS) & Retail Management SaaS (Inventory, Multi-Branch Billing, Real-Time Sync).
 - ☕ **[Lay Ywa Coffee](https://layywa.coffee):** Specialty Coffee E-Commerce & Retail Platform (Full-Stack Web & Payment Integrations).
+- 👗 **[Cover Up Myanmar](https://www.coverupmyanmar.com):** Fashion & Lifestyle E-Commerce Platform (Product Catalog, Order Workflow, Brand Experience).
 - 🏡 **[Sue Global Realty](https://sueglobalrealty.com):** International Property Listing Portal & Lead Capture CRM Platform.
 - 🏥 **[Smile Plastic Surgery](https://smileplasticsurgery.com):** Aesthetic & Healthcare Web Platform with Consultation Booking Workflow.
 
