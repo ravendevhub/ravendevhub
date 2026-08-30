@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Hein Min Htet (RAVEN)
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Systems+Engineer;TypeScript+%7C+Go+%7C+Rust+%7C+Python+%7C+PHP;Next.js+15+%7C+React+19+%7C+Laravel+11;Tailwind+CSS+v4+%7C+GSAP+%7C+Lenis;MySQL+%7C+Neon+PostgreSQL+%7C+AWS+%7C+Docker">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Systems+Engineer;TypeScript+%7C+Go+%7C+Rust+%7C+Python+%7C+PHP;Next.js+15+%7C+React+19+%7C+Laravel+11;Tailwind+CSS+v4+%7C+GSAP+%7C+Lenis;MySQL+%7C+Neon+PostgreSQL+%7C+AWS+%7C+Docker" alt="Typing SVG Animation" />
+  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Systems+Engineer;Next.js+15+%7C+React+19+%7C+TypeScript;Laravel+11+%7C+Multi-Tenant+Cloud+SaaS;Tailwind+CSS+v4+%7C+GSAP+%7C+Lenis;Go+%7C+Rust+%7C+Python+%7C+Distributed+Systems">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Systems+Engineer;Next.js+15+%7C+React+19+%7C+TypeScript;Laravel+11+%7C+Multi-Tenant+Cloud+SaaS;Tailwind+CSS+v4+%7C+GSAP+%7C+Lenis;Go+%7C+Rust+%7C+Python+%7C+Distributed+Systems" alt="Typing SVG Animation" />
   </a>
 </p>
 
@@ -19,13 +19,17 @@ const raven = {
     name: "Hein Min Htet (RAVEN)",
     role: "Full-Stack & Systems Engineer",
     location: "Southeast Asia (Remote Worldwide)",
-    specializations: [
-        "Core Languages: TypeScript, Go (Golang), Rust, Python, PHP",
-        "Next.js 15 / React 19 / Tailwind CSS v4 / GSAP / Lenis",
-        "Laravel 11 / Blade / Livewire / Multi-Tenant Cloud SaaS",
-        "MySQL (Docker) / Neon Serverless PostgreSQL / SQLite",
-        "AWS EC2 / SSH Deployment / GitHub Actions CI/CD",
-        "Linux Server Administration & Enterprise Networks"
+    primary_stack: [
+        "Next.js 15 / React 19 / TypeScript",
+        "Laravel 11 / Blade / Livewire / Multi-Tenant SaaS",
+        "Tailwind CSS v4 / GSAP / Lenis Smooth Scroll",
+        "MySQL (Docker) / Neon PostgreSQL / Prisma ORM",
+        "AWS EC2 / SSH Deployments / GitHub Actions CI/CD"
+    ],
+    specialized_systems: [
+        "Go (Golang) / Rust (Soroban SDK) / Python",
+        "Distributed Systems / Microservices / WASM",
+        "Cisco CCNA & Enterprise Network Infrastructure"
     ],
     contact: "ravendevhub@gmail.com"
 };
@@ -37,8 +41,8 @@ const raven = {
 
 I am a **Full-Stack & Systems Engineer** with extensive experience building, shipping, and maintaining commercial web applications, multi-tenant POS SaaS platforms, and enterprise network infrastructure.
 
-- 💻 **Full-Stack Software Development (2022 - Present):** Architecting production platforms, enterprise POS software, and high-conversion e-commerce storefronts with Next.js 15, React 19, TypeScript, Laravel, Go, MySQL, and PostgreSQL.
-- ⚡ **Web3 & Open-Source Contributions:** Actively contributing to core issue resolution, smart contract safety, and distributed system backends across open-source ecosystems (Rust/Soroban, Go/Trident).
+- 💻 **Full-Stack Software Development (2022 - Present):** Architecting production platforms, enterprise POS software, and high-conversion e-commerce storefronts with Next.js 15, React 19, TypeScript, Laravel 11, MySQL, and PostgreSQL.
+- ⚙️ **Systems & Distributed Contributions:** Actively contributing to core issue resolution, smart contract safety, and distributed system backends across open-source ecosystems (Rust/Soroban, Go/Trident).
 - 🔌 **Enterprise Networking & Infrastructure (2021 - 2023):** Hands-on physical & virtual network architectures, routing/switching, and security deployments for **FDB Bank** and **Wall Street English** (CCNA & MTCNA Certified).
 
 ---
@@ -57,35 +61,16 @@ I am a **Full-Stack & Systems Engineer** with extensive experience building, shi
 
 ### 🛠️ Technical Skill Matrix
 
-#### 💻 Core Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP_8.3-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WASM" />
-</p>
-
-#### 🌐 Frontend & Modern UI
+#### 🌐 Primary Full-Stack Web Technologies (Core Focus)
 <p>
   <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Laravel_11-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS v4" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
-  <img src="https://img.shields.io/badge/Laravel_Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Blade" />
-</p>
-
-#### ⚙️ Backend, Frameworks & APIs
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="TanStack Query" />
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
 </p>
 
 #### 🗄️ Databases & Cloud Infrastructure
@@ -98,6 +83,14 @@ I am a **Full-Stack & Systems Engineer** with extensive experience building, shi
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+#### ⚙️ Systems, Distributed & Specialized Languages
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WASM" />
 </p>
 
 #### 🔌 Enterprise Networking & Systems (Certified)
