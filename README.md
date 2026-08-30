@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/Status-Available_for_Bounties_%26_Contracts-success?style=for-the-badge&logo=statuspage" alt="Status" />
   </a>
   <img src="https://img.shields.io/badge/Focus-Web3_Distributed_Systems-blue?style=for-the-badge&logo=rust" alt="Focus" />
+  <img src="https://komarev.com/ghpvc/?username=ravendevhub&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ```typescript
