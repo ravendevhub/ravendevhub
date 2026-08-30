@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Hein Min Htet (RAVEN)
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Systems+Engineer;Next.js+15+%7C+React+19+%7C+TypeScript;Laravel+(PHP)+%7C+Multi-Tenant+SaaS;Tailwind+CSS+v4+%7C+GSAP+%7C+Lenis;MySQL+%7C+Neon+PostgreSQL+%7C+AWS+%7C+Docker">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Systems+Engineer;Next.js+15+%7C+React+19+%7C+TypeScript;Laravel+(PHP)+%7C+Multi-Tenant+SaaS;Tailwind+CSS+v4+%7C+GSAP+%7C+Lenis;MySQL+%7C+Neon+PostgreSQL+%7C+AWS+%7C+Docker" alt="Typing SVG Animation" />
+  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Systems+Engineer;TypeScript+%7C+Go+%7C+Rust+%7C+Python+%7C+PHP;Next.js+15+%7C+React+19+%7C+Laravel+11;Tailwind+CSS+v4+%7C+GSAP+%7C+Lenis;MySQL+%7C+Neon+PostgreSQL+%7C+AWS+%7C+Docker">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Systems+Engineer;TypeScript+%7C+Go+%7C+Rust+%7C+Python+%7C+PHP;Next.js+15+%7C+React+19+%7C+Laravel+11;Tailwind+CSS+v4+%7C+GSAP+%7C+Lenis;MySQL+%7C+Neon+PostgreSQL+%7C+AWS+%7C+Docker" alt="Typing SVG Animation" />
   </a>
 </p>
 
@@ -20,10 +20,10 @@ const raven = {
     role: "Full-Stack & Systems Engineer",
     location: "Southeast Asia (Remote Worldwide)",
     specializations: [
-        "Next.js 15 / React 19 / TypeScript",
-        "Laravel / Blade / Livewire / Multi-Tenant Cloud SaaS",
-        "Tailwind CSS v4 / GSAP / Lenis / Framer Motion",
-        "MySQL (Docker) / Neon Serverless PostgreSQL",
+        "Core Languages: TypeScript, Go (Golang), Rust, Python, PHP",
+        "Next.js 15 / React 19 / Tailwind CSS v4 / GSAP / Lenis",
+        "Laravel 11 / Blade / Livewire / Multi-Tenant Cloud SaaS",
+        "MySQL (Docker) / Neon Serverless PostgreSQL / SQLite",
         "AWS EC2 / SSH Deployment / GitHub Actions CI/CD",
         "Linux Server Administration & Enterprise Networks"
     ],
@@ -37,8 +37,8 @@ const raven = {
 
 I am a **Full-Stack & Systems Engineer** with extensive experience building, shipping, and maintaining commercial web applications, multi-tenant POS SaaS platforms, and enterprise network infrastructure.
 
-- 💻 **Full-Stack Software Development (2022 - Present):** Architecting production platforms, enterprise POS software, and high-conversion e-commerce storefronts with Next.js 15, React 19, TypeScript, Laravel, MySQL, and PostgreSQL.
-- ⚡ **Web3 & Open-Source Contributions:** Actively contributing to core issue resolution, smart contract safety, and distributed system backends across open-source ecosystems.
+- 💻 **Full-Stack Software Development (2022 - Present):** Architecting production platforms, enterprise POS software, and high-conversion e-commerce storefronts with Next.js 15, React 19, TypeScript, Laravel, Go, MySQL, and PostgreSQL.
+- ⚡ **Web3 & Open-Source Contributions:** Actively contributing to core issue resolution, smart contract safety, and distributed system backends across open-source ecosystems (Rust/Soroban, Go/Trident).
 - 🔌 **Enterprise Networking & Infrastructure (2021 - 2023):** Hands-on physical & virtual network architectures, routing/switching, and security deployments for **FDB Bank** and **Wall Street English** (CCNA & MTCNA Certified).
 
 ---
@@ -57,11 +57,21 @@ I am a **Full-Stack & Systems Engineer** with extensive experience building, shi
 
 ### 🛠️ Technical Skill Matrix
 
+#### 💻 Core Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP_8.3-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WASM" />
+</p>
+
 #### 🌐 Frontend & Modern UI
 <p>
   <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS v4" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
@@ -108,6 +118,7 @@ I am a **Full-Stack & Systems Engineer** with extensive experience building, shi
 | **Cinematic Creative & Media Platforms** | Next.js 15, React 19, Tailwind CSS v4, GSAP, Lenis | Inertia smooth scrolling, scroll-triggered motion, agency showcase |
 | **B2B Matchmaking & Community Platforms** | TanStack Start, React, TypeScript, Express, MySQL2, TanStack Query | Networking matchmaking, custom auth, reactive UI |
 | **High-Conversion E-Commerce** | Next.js, Neon PostgreSQL, Prisma, NextAuth, Cloudinary | High-speed storefronts, checkout workflows, CDN asset pipes |
+| **Distributed Systems & Backend Services** | Go, Rust, Python, REST APIs, Microservices | High-throughput data processing, smart contracts, tooling |
 | **Enterprise Infrastructure & Networking** | Cisco CCNA, MikroTik, Linux, Docker, AWS | Multi-vendor routing, VLAN segmentation, server security |
 
 ---
