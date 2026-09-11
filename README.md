@@ -39,11 +39,11 @@ const raven = {
 
 ### 📖 About Me
 
-I am a **Full-Stack Software Engineer** with 3+ years of experience architecting, shipping, and maintaining commercial web applications, multi-tenant SaaS platforms, and enterprise network infrastructure.
+I am a **Full-Stack Software Engineer** with a strong background in enterprise networking & infrastructure (since 2022), specializing in architecting, shipping, and maintaining modern commercial web applications and multi-tenant SaaS platforms.
 
-- 💻 **Full-Stack & SaaS Engineering (2022 - Present):** Shipped 8+ production web applications and multi-tenant cloud platforms using Next.js 15, React 19, TypeScript, Laravel 11, and Neon PostgreSQL — consistently achieving **sub-second page loads (<800ms)** and **98+ Lighthouse scores**.
+- 💻 **Full-Stack & SaaS Engineering (Late 2024 - Present):** Shipped 8+ production web applications and multi-tenant cloud platforms using Next.js 15, React 19, Vite, TypeScript, Laravel 11, and Neon PostgreSQL — consistently achieving **sub-second page loads (<800ms)** and **98+ Lighthouse scores**.
 - ⚙️ **Open-Source & Backend Contributions:** Actively contributing to core issue resolution, API validation, automated scripts, and backend data integrity across open-source ecosystems.
-- 🔌 **Enterprise Networking & Infrastructure (2021 - 2023):** Hands-on physical & virtual network architectures, routing/switching, and security deployments for **FDB Bank** and **Wall Street English** (CCNA & MTCNA Certified).
+- 🔌 **Enterprise Networking & Infrastructure (2022 - 2024):** Hands-on physical & virtual network architectures, routing/switching, and security deployments for **FDB Bank** and **Wall Street English** (CCNA & MTCNA Certified).
 
 ---
 
