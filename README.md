@@ -20,11 +20,11 @@ const raven = {
     role: "Full-Stack Software Engineer",
     location: "Yangon, Myanmar (Open to Remote Worldwide • UTC+6:30 • Async-Ready)",
     primary_stack: [
-        "Next.js 15 / React 19 / TypeScript",
+        "React 19 / Next.js 15 / TypeScript / Vite",
         "Laravel 11 / Blade / Livewire / Multi-Tenant SaaS",
-        "Tailwind CSS v4 / GSAP / Lenis Smooth Scroll",
+        "Tailwind CSS v4 / Radix UI (shadcn) / GSAP",
         "MySQL (Docker) / Neon Serverless PostgreSQL / Prisma ORM",
-        "AWS EC2 / SSH Deployment / GitHub Actions CI/CD"
+        "AWS EC2 / Vercel Edge / GitHub Actions CI/CD"
     ],
     specialized_systems: [
         "Python / Node.js / Express / Backend APIs",
@@ -41,7 +41,7 @@ const raven = {
 
 I am a **Full-Stack Software Engineer** with 3+ years of experience architecting, shipping, and maintaining commercial web applications, multi-tenant SaaS platforms, and enterprise network infrastructure.
 
-- 💻 **Full-Stack & SaaS Engineering (2022 - Present):** Shipped 7 production web applications and multi-tenant cloud platforms using Next.js 15, React 19, TypeScript, Laravel 11, and Neon PostgreSQL — consistently achieving **sub-second page loads (<800ms)** and **98+ Lighthouse scores**.
+- 💻 **Full-Stack & SaaS Engineering (2022 - Present):** Shipped 8+ production web applications and multi-tenant cloud platforms using Next.js 15, React 19, TypeScript, Laravel 11, and Neon PostgreSQL — consistently achieving **sub-second page loads (<800ms)** and **98+ Lighthouse scores**.
 - ⚙️ **Open-Source & Backend Contributions:** Actively contributing to core issue resolution, API validation, automated scripts, and backend data integrity across open-source ecosystems.
 - 🔌 **Enterprise Networking & Infrastructure (2021 - 2023):** Hands-on physical & virtual network architectures, routing/switching, and security deployments for **FDB Bank** and **Wall Street English** (CCNA & MTCNA Certified).
 
@@ -49,6 +49,8 @@ I am a **Full-Stack Software Engineer** with 3+ years of experience architecting
 
 ### 🌐 Commercial Production Deliverables (Result-First)
 
+- 🛍️ **[KHAM Ready To Wear](https://www.khamreadytowear.com/):** Contemporary Luxury & Ethnic Fashion E-Commerce Storefront *(React 19, TypeScript, Vite, Tailwind CSS v4, Radix UI/shadcn, Vercel Serverless Functions, Neon Serverless PostgreSQL 18.6, ImageKit.io, Cloudflare)*.  
+  *Engineered sub-200ms serverless REST APIs, rolling cryptographic client tokens for anti-scraping/anti-bot protection, rate limiting, and real-time ImageKit WebP optimization.*
 - 💳 **[WeSmartPOS](https://wesmartpos.com):** Enterprise Multi-Tenant POS & Cloud ERP SaaS *(Laravel 11, PHP, Blade, Livewire, Alpine.js, Tailwind CSS, MySQL Docker, AWS EC2, GitHub Actions CI/CD)*.  
   *Architected multi-tenant data isolation, real-time cashier billing, automated receipt workflows, and automated AWS EC2 CI/CD.*
 - 🎬 **[DD Production](https://github.com/ravendevhub/DD-Production):** Premium Creative Video Production House Web Platform *(Next.js 15, React 19, Tailwind CSS v4, GSAP ScrollTrigger, Lenis Smooth Scroll, Motion)*.  
@@ -72,6 +74,7 @@ I am a **Full-Stack Software Engineer** with 3+ years of experience architecting
   <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vite_6-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Laravel_11-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS v4" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
