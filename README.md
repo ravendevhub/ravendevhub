@@ -10,7 +10,7 @@
   <a href="mailto:ravendevhub@gmail.com">
     <img src="https://img.shields.io/badge/Status-Available_for_Remote_Roles_%26_Contracts-success?style=for-the-badge&logo=statuspage" alt="Status" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Yangon%2C_Myanmar_(UTC%2B6%3A30)-blue?style=for-the-badge&logo=googlemaps" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Mandalay%2C_Myanmar_(UTC%2B6%3A30)-blue?style=for-the-badge&logo=googlemaps" alt="Location" />
   <img src="https://komarev.com/ghpvc/?username=ravendevhub&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
 </p>
 
@@ -18,7 +18,7 @@
 const raven = {
     name: "Hein Min Htet (RAVEN)",
     role: "Full-Stack Software Engineer",
-    location: "Yangon, Myanmar (Open to Remote Worldwide • UTC+6:30 • Async-Ready)",
+    location: "Mandalay, Myanmar (Open to Remote Worldwide • UTC+6:30 • Async-Ready)",
     primary_stack: [
         "React 19 / Next.js 15 / TypeScript / Vite",
         "Laravel 11 / Blade / Livewire / Multi-Tenant SaaS",
