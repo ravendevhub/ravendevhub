@@ -27,8 +27,8 @@ const raven = {
         "AWS EC2 / SSH Deployment / GitHub Actions CI/CD"
     ],
     specialized_systems: [
-        "Go (Golang) / Rust (Soroban SDK) / Python",
-        "Distributed Systems / Microservices / WASM",
+        "Python / Node.js / Express / Backend APIs",
+        "RESTful APIs / Automation / Scripting",
         "Cisco CCNA Certified Network Associate"
     ],
     contact: "ravendevhub@gmail.com"
@@ -42,7 +42,7 @@ const raven = {
 I am a **Full-Stack Software Engineer** with 3+ years of experience architecting, shipping, and maintaining commercial web applications, multi-tenant SaaS platforms, and enterprise network infrastructure.
 
 - 💻 **Full-Stack & SaaS Engineering (2022 - Present):** Shipped 7 production web applications and multi-tenant cloud platforms using Next.js 15, React 19, TypeScript, Laravel 11, and Neon PostgreSQL — consistently achieving **sub-second page loads (<800ms)** and **98+ Lighthouse scores**.
-- ⚙️ **Systems & Distributed Contributions:** Actively contributing to core issue resolution, smart contract safety, and distributed system backends across open-source ecosystems (Rust/Soroban, Go/Trident).
+- ⚙️ **Open-Source & Backend Contributions:** Actively contributing to core issue resolution, API validation, automated scripts, and backend data integrity across open-source ecosystems.
 - 🔌 **Enterprise Networking & Infrastructure (2021 - 2023):** Hands-on physical & virtual network architectures, routing/switching, and security deployments for **FDB Bank** and **Wall Street English** (CCNA & MTCNA Certified).
 
 ---
@@ -91,12 +91,12 @@ I am a **Full-Stack Software Engineer** with 3+ years of experience architecting
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-#### ⚙️ Systems, Distributed & Specialized Languages
+#### ⚙️ Backend, Scripting & Automation
 <p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WASM" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
 
 #### 🔌 Enterprise Networking & Credentials (Certified)
@@ -117,7 +117,7 @@ I am a **Full-Stack Software Engineer** with 3+ years of experience architecting
 | **Cinematic Creative & Media Platforms** | Next.js 15, React 19, Tailwind CSS v4, GSAP, Lenis | 99 Lighthouse performance, 60fps smooth scrolling, agency showcase |
 | **B2B Matchmaking & Community Platforms** | TanStack Start, React, TypeScript, Express, MySQL2 | Sub-100ms API response times, custom JWT auth, reactive matchmaking UI |
 | **High-Conversion E-Commerce** | Next.js, Neon PostgreSQL, Prisma, NextAuth, Cloudinary | 25% lower checkout dropoff, 35% faster mobile checkout conversion |
-| **Distributed Systems & Backend Services** | Go, Rust, Python, REST APIs, Microservices | High-throughput data processing, smart contracts, tooling |
+| **Backend & API Development** | Python, Node.js, Express, REST APIs, Fastify | High-throughput data processing, clean API design, automation tooling |
 | **Enterprise Infrastructure & Networking** | Cisco CCNA, MikroTik, Linux, Docker, AWS | Multi-vendor routing, VLAN segmentation, server security |
 
 ---
