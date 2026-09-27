@@ -17,7 +17,7 @@
 ```typescript
 const raven = {
     name: "Hein Min Htet (RAVEN)",
-    role: "Full-Stack Software Engineer",
+    role: "Full-Stack DEV",
     location: "Mandalay, Myanmar (Open to Remote Worldwide • UTC+6:30 • Async-Ready)",
     primary_stack: [
         "React 19 / Next.js 15 / TypeScript / Vite",
