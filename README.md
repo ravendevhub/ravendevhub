@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hein Min Htet (RAVEN)
+<h1 align="center">👋 Hi, I'm Hein Min Htet (RAVEN)</h1>
 
 <h3 align="center">Full-Stack DEV</h3>
 
