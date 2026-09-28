@@ -47,24 +47,6 @@ I am a **Full-Stack Software Engineer** with a strong background in enterprise n
 
 ---
 
-### 🌐 Commercial Production Deliverables (Result-First)
-
-- 🛍️ **[KHAM Ready To Wear](https://www.khamreadytowear.com/):** Contemporary Luxury & Ethnic Fashion E-Commerce Storefront *(React 19, TypeScript, Vite, Tailwind CSS v4, Radix UI/shadcn, Vercel Serverless Functions, Neon Serverless PostgreSQL 18.6, ImageKit.io, Cloudflare)*.  
-  *Engineered sub-200ms serverless REST APIs, rolling cryptographic client tokens for anti-scraping/anti-bot protection, rate limiting, and real-time ImageKit WebP optimization.*
-- 💳 **[WeSmartPOS](https://wesmartpos.com):** Enterprise Multi-Tenant POS & Cloud ERP SaaS *(Laravel 11, PHP, Blade, Livewire, Alpine.js, Tailwind CSS, MySQL Docker, AWS EC2, GitHub Actions CI/CD)*.  
-  *Architected multi-tenant data isolation, real-time cashier billing, automated receipt workflows, and automated AWS EC2 CI/CD.*
-- 🎬 **[DD Production](https://github.com/ravendevhub/DD-Production):** Premium Creative Video Production House Web Platform *(Next.js 15, React 19, Tailwind CSS v4, GSAP ScrollTrigger, Lenis Smooth Scroll, Motion)*.  
-  *Engineered cinematic agency web experience with 99 Lighthouse performance, 60fps smooth scrolling, and streamlined client booking inquiries.*
-- 🤝 **[Meet2Connect](https://meet2connect.net):** B2B Networking & Matchmaking Platform *(TanStack Start, TanStack Router, React, TypeScript, Express, MySQL2, TanStack Query, Radix UI, Framer Motion)*.  
-  *Delivered sub-100ms API response times, custom JWT/RBAC security, and dynamic matchmaking filters.*
-- 👗 **[Cover Up Myanmar](https://www.coverupmyanmar.com):** High-Traffic Lifestyle E-Commerce Storefront *(Next.js App Router, TypeScript, Neon Serverless PostgreSQL, Prisma, NextAuth, Cloudinary)*.  
-  *Reduced checkout abandonment by 25% via Prisma state management and Cloudinary CDN optimization.*
-- ☕ **[Lay Ywa Coffee](https://layywa.coffee):** Specialty Coffee Brand E-Commerce Platform *(Next.js App Router, TypeScript, Neon Serverless PostgreSQL, Prisma, Base UI/shadcn, Vercel Edge)*.  
-  *Achieved 35% improvement in mobile conversion speed through edge-accelerated Next.js architecture.*
-- 🏡 **[Sue Global Realty](https://sueglobalrealty.com):** International Property Listing Portal *(React, TypeScript, Leaflet Interactive Maps, TanStack Query, Express, MySQL2, Recharts, GSAP)*.  
-  *Implemented interactive Leaflet map geocoding, dynamic ROI rental projections, and automated CRM lead routing.*
-- 🏥 **[Smile Plastic Surgery](https://smileplasticsurgery.com):** Aesthetic & Healthcare Clinic Platform with Consultation Booking Workflow.
-
 ---
 
 ### 🛠️ Technical Skill Matrix
