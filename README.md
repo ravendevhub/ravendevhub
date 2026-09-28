@@ -1,10 +1,6 @@
 # 👋 Hi, I'm Hein Min Htet (RAVEN)
 
-<p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Next.js+15+%7C+React+19+%7C+TypeScript;Laravel+11+%7C+Multi-Tenant+Cloud+SaaS;Tailwind+CSS+v4+%7C+GSAP+%7C+Lenis;Sub-Second+Load+Times+%7C+98%2B+Lighthouse">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Next.js+15+%7C+React+19+%7C+TypeScript;Laravel+11+%7C+Multi-Tenant+Cloud+SaaS;Tailwind+CSS+v4+%7C+GSAP+%7C+Lenis;Sub-Second+Load+Times+%7C+98%2B+Lighthouse" alt="Typing SVG Animation" />
-  </a>
-</p>
+<h3 align="center">Full-Stack DEV</h3>
 
 <p align="center">
   <a href="mailto:ravendevhub@gmail.com">
