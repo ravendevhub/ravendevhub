@@ -1,7 +1,7 @@
 <h1 align="center">Hein Min Htet (Raven)</h1>
 
 <p align="center">
-  <strong>Full-Stack Software Engineer</strong> • <strong>Open-Source Contributor</strong>
+  <strong>Full-Stack Web Developer</strong> • <strong>Open-Source Contributor</strong>
 </p>
 
 <p align="center">
@@ -23,21 +23,21 @@ interface DeveloperProfile {
   focus: string;
   core_stack: {
     frontend: string[];
-    backend_systems: string[];
-    cloud_devops: string[];
+    backend: string[];
+    database_cloud: string[];
   };
   contact: string;
 }
 
 const raven: DeveloperProfile = {
   name: "Hein Min Htet (Raven)",
-  role: "Full-Stack Software Engineer",
+  role: "Full-Stack Web Developer",
   location: "Mandalay, Myanmar • Remote Worldwide (UTC+6:30 • Async-Ready)",
-  focus: "Clean code craftsmanship, modern web architectures, and open-source software.",
+  focus: "Modern responsive web applications, multi-tenant SaaS, and REST APIs.",
   core_stack: {
     frontend: ["Next.js 15", "React 19", "TypeScript", "Tailwind CSS v4", "shadcn/ui", "GSAP"],
-    backend_systems: ["Node.js / Express", "Python", "Rust", "Laravel 11", "REST APIs"],
-    cloud_devops: ["Neon PostgreSQL", "MySQL Docker", "AWS", "Docker", "Cloudflare", "GitHub Actions"]
+    backend: ["Node.js / Express", "Python", "PHP", "Laravel 11", "REST APIs"],
+    database_cloud: ["Neon PostgreSQL", "MySQL Docker", "AWS", "Docker", "Cloudflare", "GitHub Actions"]
   },
   contact: "ravendevhub@gmail.com"
 };
@@ -56,26 +56,26 @@ const raven: DeveloperProfile = {
 
 ### 📖 About Me
 
-I am a **Full-Stack Software Engineer** with an enterprise networking and infrastructure foundation (since 2022, Cisco CCNA & MTCNA certified). I specialize in building, shipping, and maintaining modern multi-tenant cloud applications, backend systems, and contributing to open-source protocols.
+I am a **Full-Stack Web Developer** with a solid foundation in enterprise networking and infrastructure (since 2022, Cisco CCNA & MTCNA certified). I specialize in designing, building, and deploying modern responsive web applications, multi-tenant cloud SaaS, and RESTful backend APIs.
 
-- 💻 **Full-Stack & Cloud SaaS (2025 - Present):** Shipped multiple production web applications and multi-tenant cloud platforms using Next.js 15, React 19, TypeScript, Laravel 11, and Neon PostgreSQL — consistently achieving **sub-second page loads (<800ms)** and **98+ Lighthouse scores**.
-- 🦀 **Open-Source & Protocol Contributions:** Active open-source contributor across Web3 ecosystems, protocol verification, security audits, and UTXO transaction engine guards.
+- 💻 **Full-Stack Web & Cloud SaaS (2025 - Present):** Shipped multiple production web applications and multi-tenant cloud platforms using Next.js 15, React 19, TypeScript, Laravel 11, and Neon PostgreSQL — consistently achieving **sub-second page loads (<800ms)** and **98+ Lighthouse scores**.
+- ⚙️ **Open-Source & Web3 Contributions:** Active contributor across open-source web ecosystems, database schema normalizations, API validation, and test suites.
 - 🔌 **Enterprise Networking & Infrastructure (2022 - 2024):** Hands-on physical & virtual network architectures, routing/switching, VLAN segmentation, and enterprise security deployments for institutional organizations (CCNA & MTCNA Certified).
 
 ---
 
-### 🌐 Open-Source & Protocol Engineering
+### 🌐 Open-Source & Community Contributions
 
-- 🦀 **[Scottcjn/Rustchain](https://github.com/Scottcjn/Rustchain):** Sybil-resistant hardware-attested AI agent blockchain. Engineered UTXO mempool transaction guards (#8302), security proof verification hardening, finite numeric validation, and anti-Sybil duplicate claim protections.
+- 🐍 **[Scottcjn/Rustchain](https://github.com/Scottcjn/Rustchain):** Open-source AI agent network. Contributed Python validation logic (#8302), security proof verification hardening, finite numeric validation, and anti-Sybil duplicate claim protections.
 - 🔗 **[Chain-Love](https://github.com/Chain-Love/chain-love):** Global collaborative Web3 infrastructure registry. Authored 20+ architectural schema normalizations, storage protocols, and database integrity audits.
-- ⚡ **[sorokit-ui](https://github.com/ravendevhub/ui):** Minimal React UI component system for Stellar Soroban smart contracts built on Radix UI, Tailwind CSS, and shadcn primitives.
-- 🤖 **[ai-net](https://github.com/ravendevhub/ai-net):** Decentralized autonomous AI agent coordination and micropayment protocol on Stellar network.
+- ⚡ **[sorokit-ui](https://github.com/ravendevhub/ui):** Minimal React UI component system for Stellar Soroban dApps built on Radix UI, Tailwind CSS, and shadcn primitives.
+- 🤖 **[ai-net](https://github.com/ravendevhub/ai-net):** Decentralized autonomous AI agent coordination protocol on Stellar network.
 
 ---
 
 ### 🛠️ Technical Skill Matrix
 
-#### 🌐 Modern Frontend & Web Architecture
+#### 🌐 Frontend & Web Development
 <p>
   <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -88,7 +88,7 @@ I am a **Full-Stack Software Engineer** with an enterprise networking and infras
   <img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
 </p>
 
-#### 🗄️ Databases, Cloud & DevOps Infrastructure
+#### 🗄️ Databases, Cloud & DevOps
 <p>
   <img src="https://img.shields.io/badge/Neon_PostgreSQL-00E599?style=for-the-badge&logo=postgresql&logoColor=black" alt="Neon Postgres" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -100,16 +100,16 @@ I am a **Full-Stack Software Engineer** with an enterprise networking and infras
   <img src="https://img.shields.io/badge/Linux_Arch%2FUbuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-#### ⚙️ Backend, Systems & Protocols
+#### ⚙️ Backend & APIs
 <p>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
 </p>
 
-#### 🔌 Enterprise Networking & Security Credentials
+#### 🔌 Enterprise Networking & Credentials
 <p>
   <img src="https://img.shields.io/badge/Cisco_CCNA_Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA" />
   <img src="https://img.shields.io/badge/MikroTik_MTCNA-EE3124?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
@@ -119,16 +119,16 @@ I am a **Full-Stack Software Engineer** with an enterprise networking and infras
 
 ---
 
-### 💼 Engineering Domains & Quantitative Impact
+### 💼 Core Development Focus & Deliverables
 
-| Domain | Core Technologies | Quantified Focus & Deliverables |
+| Domain | Core Technologies | Focus & Deliverables |
 | :--- | :--- | :--- |
 | **Enterprise Cloud POS & ERP SaaS** | Laravel 11, Livewire, Alpine.js, MySQL (Docker), AWS | Multi-tenant tenant isolation, billing, inventory, automated CI/CD |
-| **Cinematic Creative & Media Platforms** | Next.js 15, React 19, Tailwind CSS v4, GSAP, Lenis | 99 Lighthouse performance, 60fps smooth scrolling, agency showcase |
+| **Cinematic Creative & Media Web Platforms** | Next.js 15, React 19, Tailwind CSS v4, GSAP, Lenis | 99 Lighthouse performance, 60fps smooth scrolling, agency showcase |
 | **B2B Matchmaking & Community Platforms** | TanStack Start, React, TypeScript, Express, MySQL2 | Sub-100ms API response times, custom JWT auth, reactive matchmaking UI |
-| **High-Conversion E-Commerce** | Next.js, Neon PostgreSQL, Prisma, NextAuth, Cloudinary | 25% lower checkout dropoff, 35% faster mobile checkout conversion |
-| **Distributed Systems & Web3 Protocols** | Rust, Python, SQLite, Stellar Soroban, REST APIs | Proof freshness validation, Sybil mitigation, UTXO mempool guards |
-| **Enterprise Infrastructure & Networking** | Cisco CCNA, MikroTik, Linux, Docker, AWS | Multi-vendor routing, VLAN segmentation, zero-trust server hardening |
+| **High-Conversion E-Commerce Web Apps** | Next.js, Neon PostgreSQL, Prisma, NextAuth, Cloudinary | 25% lower checkout dropoff, 35% faster mobile checkout conversion |
+| **Backend APIs & Data Integration** | Python, Node.js, Express, REST APIs, SQLite | API validation, data processing, automated tooling and test suites |
+| **Enterprise Infrastructure & Networking** | Cisco CCNA, MikroTik, Linux, Docker, AWS | Multi-vendor routing, VLAN segmentation, secure server environments |
 
 ---
 
@@ -136,7 +136,7 @@ I am a **Full-Stack Software Engineer** with an enterprise networking and infras
 - **Cisco Certified Network Associate (CCNA)** — Enterprise Routing, Switching & Security Architecture.
 - **MikroTik Certified Network Associate (MTCNA)** — Advanced Traffic Management & Firewall Engineering.
 - **Ruijie Certified Network Associate (RCNA)** — Enterprise Campus Infrastructure Deployment.
-- **Self-Directed Computer Science & Software Engineering:** Data Structures, Algorithms, Distributed Architectures & System Design.
+- **Modern Web Development & Computer Science Foundations:** Responsive Web Apps, Full-Stack Architecture, REST APIs & Databases.
 
 ---
 
@@ -154,4 +154,4 @@ I am a **Full-Stack Software Engineer** with an enterprise networking and infras
   </a>
 </p>
 
-*Available for High-Impact Remote Roles, Core Architecture Contracts & Open-Source Collaborations Worldwide.*
+*Available for Remote Web Development Roles, SaaS Building & Contracts Worldwide.*
