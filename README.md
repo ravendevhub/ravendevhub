@@ -1,53 +1,81 @@
-<h1 align="center">👋 Hi, I'm Hein Min Htet (RAVEN)</h1>
+<h1 align="center">Hein Min Htet (Raven)</h1>
 
-<h3 align="center">Full-Stack DEV</h3>
+<p align="center">
+  <strong>Senior Full-Stack & Systems Engineer</strong> • <strong>Open-Source Protocol Contributor</strong>
+</p>
 
 <p align="center">
   <a href="mailto:ravendevhub@gmail.com">
-    <img src="https://img.shields.io/badge/Status-Available_for_Remote_Roles_%26_Contracts-success?style=for-the-badge&logo=statuspage" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-Available_for_Remote_Roles_%26_Contracts-success?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Mandalay%2C_Myanmar_(UTC%2B6%3A30)-blue?style=for-the-badge&logo=googlemaps" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Mandalay%2C_Myanmar_•_Remote_Worldwide_(UTC%2B6%3A30)-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <a href="https://www.linkedin.com/in/heinminhtet-network">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=ravendevhub&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ```typescript
-const raven = {
-    name: "Hein Min Htet (RAVEN)",
-    role: "Full-Stack DEV",
-    location: "Mandalay, Myanmar (Open to Remote Worldwide • UTC+6:30 • Async-Ready)",
-    primary_stack: [
-        "React 19 / Next.js 15 / TypeScript / Vite",
-        "Laravel 11 / Blade / Livewire / Multi-Tenant SaaS",
-        "Tailwind CSS v4 / Radix UI (shadcn) / GSAP",
-        "MySQL (Docker) / Neon Serverless PostgreSQL / Prisma ORM",
-        "AWS EC2 / Vercel Edge / GitHub Actions CI/CD"
-    ],
-    specialized_systems: [
-        "Python / Node.js / Express / Backend APIs",
-        "RESTful APIs / Automation / Scripting",
-        "Cisco CCNA Certified Network Associate"
-    ],
-    contact: "ravendevhub@gmail.com"
+interface SeniorEngineer {
+  name: string;
+  role: string;
+  location: string;
+  architecture_principles: string;
+  core_stack: {
+    frontend: string[];
+    backend_systems: string[];
+    cloud_devops: string[];
+  };
+  contact: string;
+}
+
+const raven: SeniorEngineer = {
+  name: "Hein Min Htet (Raven)",
+  role: "Senior Full-Stack & Systems Engineer",
+  location: "Mandalay, Myanmar • Remote Worldwide (UTC+6:30 • Async-First)",
+  architecture_principles: "Defensive design, zero regression, sub-second latency, and clean engineering rigor.",
+  core_stack: {
+    frontend: ["Next.js 15", "React 19", "TypeScript", "Tailwind CSS v4", "shadcn/ui", "GSAP / Lenis"],
+    backend_systems: ["Node.js / Express", "Python", "Rust", "Laravel 11", "REST & GraphQL"],
+    cloud_devops: ["Neon PostgreSQL", "MySQL Docker", "AWS", "Docker", "Cloudflare", "GitHub Actions"]
+  },
+  contact: "ravendevhub@gmail.com"
 };
 ```
 
 ---
 
-### 📖 About Me
+### 📊 GitHub Activity & Streak Telemetry
 
-I am a **Full-Stack Software Engineer** with a strong background in enterprise networking & infrastructure (since 2022), specializing in architecting, shipping, and maintaining modern commercial web applications and multi-tenant SaaS platforms.
-
-- 💻 **Full-Stack & SaaS Engineering (2025 - Present):** Shipped 8+ production web applications and multi-tenant cloud platforms using Next.js 15, React 19, Vite, TypeScript, Laravel 11, and Neon PostgreSQL — consistently achieving **sub-second page loads (<800ms)** and **98+ Lighthouse scores**.
-- ⚙️ **Open-Source & Backend Contributions:** Actively contributing to core issue resolution, API validation, automated scripts, and backend data integrity across open-source ecosystems.
-- 🔌 **Enterprise Networking & Infrastructure (2022 - 2024):** Hands-on physical & virtual network architectures, routing/switching, and security deployments for **FDB Bank** and **Wall Street English** (CCNA & MTCNA Certified).
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravendevhub&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ravendevhub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=34D399&text_color=94A3B8" alt="GitHub Stats" width="49%" />
+</p>
 
 ---
+
+### 📖 About Me
+
+I am a **Senior Full-Stack & Systems Software Engineer** with an enterprise networking and infrastructure foundation (since 2022, Cisco CCNA & MTCNA certified). I specialize in architecting, shipping, and maintaining commercial multi-tenant cloud applications, distributed protocol engines, and high-performance backend systems.
+
+- 💻 **Full-Stack & Cloud SaaS (2025 - Present):** Shipped multiple production web applications and multi-tenant cloud platforms using Next.js 15, React 19, TypeScript, Laravel 11, and Neon PostgreSQL — consistently achieving **sub-second page loads (<800ms)** and **98+ Lighthouse scores**.
+- 🦀 **Open-Source & Protocol Contributions:** Active open-source contributor across Web3 ecosystems, protocol verification, security audits, and UTXO transaction engine guards.
+- 🔌 **Enterprise Networking & Infrastructure (2022 - 2024):** Hands-on physical & virtual network architectures, routing/switching, VLAN segmentation, and enterprise security deployments for institutional organizations (CCNA & MTCNA Certified).
+
+---
+
+### 🌐 Open-Source & Protocol Engineering
+
+- 🦀 **[Scottcjn/Rustchain](https://github.com/Scottcjn/Rustchain):** Sybil-resistant hardware-attested AI agent blockchain. Engineered UTXO mempool transaction guards (#8302), security proof verification hardening, finite numeric validation, and anti-Sybil duplicate claim protections.
+- 🔗 **[Chain-Love](https://github.com/Chain-Love/chain-love):** Global collaborative Web3 infrastructure registry. Authored 20+ architectural schema normalizations, storage protocols, and database integrity audits.
+- ⚡ **[sorokit-ui](https://github.com/ravendevhub/ui):** Minimal React UI component system for Stellar Soroban smart contracts built on Radix UI, Tailwind CSS, and shadcn primitives.
+- 🤖 **[ai-net](https://github.com/ravendevhub/ai-net):** Decentralized autonomous AI agent coordination and micropayment protocol on Stellar network.
 
 ---
 
 ### 🛠️ Technical Skill Matrix
 
-#### 🌐 Primary Full-Stack Web Technologies (Core Focus)
+#### 🌐 Modern Frontend & Web Architecture
 <p>
   <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -60,37 +88,38 @@ I am a **Full-Stack Software Engineer** with a strong background in enterprise n
   <img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
 </p>
 
-#### 🗄️ Databases & Cloud Infrastructure
+#### 🗄️ Databases, Cloud & DevOps Infrastructure
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Neon_PostgreSQL-00E599?style=for-the-badge&logo=postgresql&logoColor=black" alt="Neon Postgres" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/AWS_EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS EC2" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Linux_Arch%2FUbuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-#### ⚙️ Backend, Scripting & Automation
+#### ⚙️ Backend, Systems & Protocols
 <p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
 
-#### 🔌 Enterprise Networking & Credentials (Certified)
+#### 🔌 Enterprise Networking & Security Credentials
 <p>
-  <img src="https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA" />
+  <img src="https://img.shields.io/badge/Cisco_CCNA_Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA" />
   <img src="https://img.shields.io/badge/MikroTik_MTCNA-EE3124?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
   <img src="https://img.shields.io/badge/Ruijie_RCNA-005BAC?style=for-the-badge&logo=serverless&logoColor=white" alt="Ruijie" />
-  <img src="https://img.shields.io/badge/VoIP_Telephony-0088CC?style=for-the-badge&logo=teamspeak&logoColor=white" alt="VoIP" />
+  <img src="https://img.shields.io/badge/Enterprise_Security-0088CC?style=for-the-badge&logo=wireguard&logoColor=white" alt="Security" />
 </p>
 
 ---
 
-### 💼 Engineering Domains & Impact
+### 💼 Engineering Domains & Quantitative Impact
 
 | Domain | Core Technologies | Quantified Focus & Deliverables |
 | :--- | :--- | :--- |
@@ -98,21 +127,31 @@ I am a **Full-Stack Software Engineer** with a strong background in enterprise n
 | **Cinematic Creative & Media Platforms** | Next.js 15, React 19, Tailwind CSS v4, GSAP, Lenis | 99 Lighthouse performance, 60fps smooth scrolling, agency showcase |
 | **B2B Matchmaking & Community Platforms** | TanStack Start, React, TypeScript, Express, MySQL2 | Sub-100ms API response times, custom JWT auth, reactive matchmaking UI |
 | **High-Conversion E-Commerce** | Next.js, Neon PostgreSQL, Prisma, NextAuth, Cloudinary | 25% lower checkout dropoff, 35% faster mobile checkout conversion |
-| **Backend & API Development** | Python, Node.js, Express, REST APIs, Fastify | High-throughput data processing, clean API design, automation tooling |
-| **Enterprise Infrastructure & Networking** | Cisco CCNA, MikroTik, Linux, Docker, AWS | Multi-vendor routing, VLAN segmentation, server security |
+| **Distributed Systems & Web3 Protocols** | Rust, Python, SQLite, Stellar Soroban, REST APIs | Proof freshness validation, Sybil mitigation, UTXO mempool guards |
+| **Enterprise Infrastructure & Networking** | Cisco CCNA, MikroTik, Linux, Docker, AWS | Multi-vendor routing, VLAN segmentation, zero-trust server hardening |
 
 ---
 
-### 🎓 Education & Training
-- **Self-Directed Computer Science & Software Engineering:** Data Structures, System Design, Distributed Architectures & Algorithms.
-- **Industry Certifications:** Cisco Certified Network Associate (CCNA) • MikroTik Certified Network Associate (MTCNA) • Ruijie RCNA.
+### 🎓 Certifications & Background
+- **Cisco Certified Network Associate (CCNA)** — Enterprise Routing, Switching & Security Architecture.
+- **MikroTik Certified Network Associate (MTCNA)** — Advanced Traffic Management & Firewall Engineering.
+- **Ruijie Certified Network Associate (RCNA)** — Enterprise Campus Infrastructure Deployment.
+- **Self-Directed Computer Science & Software Engineering:** Data Structures, Algorithms, Distributed Architectures & System Design.
 
 ---
 
-📫 **Let's Connect & Build Together:**
-- 💼 **Available for High-Impact Remote Roles, Startup Engineering & Contracts**
-- 📧 **Email:** [ravendevhub@gmail.com](mailto:ravendevhub@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/heinminhtet-network](https://www.linkedin.com/in/heinminhtet-network)
-- 🌐 **GitHub Profile:** [github.com/ravendevhub](https://github.com/ravendevhub)
-<!-- Verified Full-Stack & Systems Engineer: High-Performance SaaS & Open-Source Contributor -->
+### 📫 Connect & Collaborate
 
+<p align="left">
+  <a href="mailto:ravendevhub@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ravendevhub%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/heinminhtet-network">
+    <img src="https://img.shields.io/badge/LinkedIn-Hein_Min_Htet-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ravendevhub">
+    <img src="https://img.shields.io/badge/GitHub-ravendevhub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+*Available for High-Impact Remote Roles, Core Architecture Contracts & Open-Source Collaborations Worldwide.*
