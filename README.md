@@ -1,7 +1,7 @@
 <h1 align="center">Hein Min Htet (Raven)</h1>
 
 <p align="center">
-  <strong>Senior Full-Stack & Systems Engineer</strong> • <strong>Open-Source Protocol Contributor</strong>
+  <strong>Full-Stack Software Engineer</strong> • <strong>Open-Source Contributor</strong>
 </p>
 
 <p align="center">
@@ -16,11 +16,11 @@
 </p>
 
 ```typescript
-interface SeniorEngineer {
+interface DeveloperProfile {
   name: string;
   role: string;
   location: string;
-  architecture_principles: string;
+  focus: string;
   core_stack: {
     frontend: string[];
     backend_systems: string[];
@@ -29,14 +29,14 @@ interface SeniorEngineer {
   contact: string;
 }
 
-const raven: SeniorEngineer = {
+const raven: DeveloperProfile = {
   name: "Hein Min Htet (Raven)",
-  role: "Senior Full-Stack & Systems Engineer",
-  location: "Mandalay, Myanmar • Remote Worldwide (UTC+6:30 • Async-First)",
-  architecture_principles: "Defensive design, zero regression, sub-second latency, and clean engineering rigor.",
+  role: "Full-Stack Software Engineer",
+  location: "Mandalay, Myanmar • Remote Worldwide (UTC+6:30 • Async-Ready)",
+  focus: "Clean code craftsmanship, modern web architectures, and open-source software.",
   core_stack: {
-    frontend: ["Next.js 15", "React 19", "TypeScript", "Tailwind CSS v4", "shadcn/ui", "GSAP / Lenis"],
-    backend_systems: ["Node.js / Express", "Python", "Rust", "Laravel 11", "REST & GraphQL"],
+    frontend: ["Next.js 15", "React 19", "TypeScript", "Tailwind CSS v4", "shadcn/ui", "GSAP"],
+    backend_systems: ["Node.js / Express", "Python", "Rust", "Laravel 11", "REST APIs"],
     cloud_devops: ["Neon PostgreSQL", "MySQL Docker", "AWS", "Docker", "Cloudflare", "GitHub Actions"]
   },
   contact: "ravendevhub@gmail.com"
@@ -56,7 +56,7 @@ const raven: SeniorEngineer = {
 
 ### 📖 About Me
 
-I am a **Senior Full-Stack & Systems Software Engineer** with an enterprise networking and infrastructure foundation (since 2022, Cisco CCNA & MTCNA certified). I specialize in architecting, shipping, and maintaining commercial multi-tenant cloud applications, distributed protocol engines, and high-performance backend systems.
+I am a **Full-Stack Software Engineer** with an enterprise networking and infrastructure foundation (since 2022, Cisco CCNA & MTCNA certified). I specialize in building, shipping, and maintaining modern multi-tenant cloud applications, backend systems, and contributing to open-source protocols.
 
 - 💻 **Full-Stack & Cloud SaaS (2025 - Present):** Shipped multiple production web applications and multi-tenant cloud platforms using Next.js 15, React 19, TypeScript, Laravel 11, and Neon PostgreSQL — consistently achieving **sub-second page loads (<800ms)** and **98+ Lighthouse scores**.
 - 🦀 **Open-Source & Protocol Contributions:** Active open-source contributor across Web3 ecosystems, protocol verification, security audits, and UTXO transaction engine guards.
